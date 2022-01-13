@@ -1,0 +1,21 @@
+{
+  "name": "demo_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cucumber": "4.0.4",
+    "@types/node": "12.12.2",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "cucumber": "6.0.5",
+    "cucumber-html-reporter": "^5.5.0",
+    "protractor": "^7.0.0",
+    "protractor-cucumber-framework": "6.2.1"
+  }
+}
